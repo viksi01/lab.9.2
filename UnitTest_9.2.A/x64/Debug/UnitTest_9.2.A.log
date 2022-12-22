@@ -1,0 +1,4 @@
+﻿  UnitTest_9.2.A.cpp
+D:\НУЛП\АП\lab_9.2.A\lab_9.2.A\lab_9.2.A.cpp(28,9): warning C4101: 'kurs': unreferenced local variable
+D:\НУЛП\АП\lab_9.2.A\lab_9.2.A\lab_9.2.A.cpp(187,7): warning C4101: 'spec': unreferenced local variable
+  UnitTest_9.2.A.vcxproj -> D:\НУЛП\АП\lab_9.2.A\x64\Debug\UnitTest_9.2.A.dll

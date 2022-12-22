@@ -1,0 +1,5 @@
+﻿  lab_9.2.B.cpp
+D:\НУЛП\АП\lab_9.2.B\lab_9.2.B\lab_9.2.B.cpp(33,6): warning C4101: 'kurs': unreferenced local variable
+D:\НУЛП\АП\lab_9.2.B\lab_9.2.B\lab_9.2.B.cpp(120,31): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\НУЛП\АП\lab_9.2.B\lab_9.2.B\lab_9.2.B.cpp(236,7): warning C4101: 'spec': unreferenced local variable
+  lab_9.2.B.vcxproj -> D:\НУЛП\АП\lab_9.2.B\x64\Debug\lab_9.2.B.exe
